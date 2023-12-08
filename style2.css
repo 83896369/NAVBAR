@@ -1,0 +1,13 @@
+body{
+    background-color:bisque;
+}
+img{
+    border-radius: 20px;
+    width: 200px;
+    margin-top: 5px;
+}
+.item:hover{
+    background-color: blanchedalmond;
+    font-size: 20px;
+    font-family: monospace;
+}
